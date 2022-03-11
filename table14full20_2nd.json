@@ -1,5 +1,5 @@
 {
-  "fields": ["State \nFIPS \ncode","Group \ncode","State","Population group","Civilian non-institutional population","LF_total","LF_PCT_POP","Employed_total","Employed_PCT_POP","Unemployed_total","Unemployed_rate","Error range of rate(1)" ],
+  "fields": ["State_FIPS_code","Group_code","State","Population_group","Civilian_non-institutional_population","LF_total","LF_PCT_POP","Employed_total","Employed_PCT_POP","Unemployed_total","Unemployed_rate","Error range of rate(1)" ],
   "data": [
   [1,1,"Alabama","Total",3882,2232,57.5,2099,54.1,133,6,"5.2 – 6.8"  ],
   [1,2,"Alabama","Men",1834,1163,63.4,1098,59.9,65,5.6,"4.6 – 6.6"  ],
