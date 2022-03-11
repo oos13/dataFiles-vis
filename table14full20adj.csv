@@ -1,5 +1,5 @@
 ﻿state_FIPS,group_code,state,population_group,civ_population,labor_force,LF_PCT_POP,Employed_total,employed_PCT,Unemployed_total,Unemployed_PCT,error range
-01,01,Alabama,Total,3882,2232,57.50,2099,54.10,133,6.00,5.2 – 6.8
+1001,01,Alabama,Total,3882,2232,57.50,2099,54.10,133,6.00,5.2 – 6.8
 01,02,Alabama,Men,1834,1163,63.40,1098,59.90,65,5.60,4.6 – 6.6
 01,03,Alabama,Women,2048,1069,52.20,1001,48.90,68,6.40,5.2 – 7.6
 01,04,Alabama,White,2715,1572,57.90,1494,55.00,77,4.90,4.1 – 5.7
