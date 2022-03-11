@@ -1,10 +1,10 @@
 [
  {
-   "FIELD1": "State \nFIPS \ncode",
-   "FIELD2": "Group \ncode",
+   "FIELD1": "State_FIPS_code",
+   "FIELD2": "Group_code",
    "FIELD3": "State",
-   "FIELD4": "Population group",
-   "FIELD5": "Civilian non-institutional population",
+   "FIELD4": "Population_group",
+   "FIELD5": "Civilian_non-institutional_population",
    "FIELD6": "LF_total",
    "FIELD7": "LF_PCT_POP",
    "FIELD8": "Employed_total",
